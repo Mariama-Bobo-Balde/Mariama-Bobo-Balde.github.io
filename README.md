@@ -1,40 +1,45 @@
-Intelligent Embedded Systems Portfolio
+# Portfolio des systèmes embarqués intelligents
 
-About Me
+## About Me
 
-Avionics Technician transitioning into Embedded Systems and Intelligent Aircraft Maintenance engineering.
+Avionics technician transitioning toward intelligent maintenance engineering for aeronautical systems.
 
-My work focuses on designing structured systems integrating sensor data acquisition, signal processing and predictive maintenance logic.
+My interest lies in structured system design combining operational data acquisition, backend architecture and maintenance intelligence.
 
-Through the AeroIntell project, I aim to build a progressive ecosystem combining embedded hardware, backend architecture and intelligent maintenance intelligence adapted to real operational constraints.
+Through the AeroIntell project, I aim to develop an evolutionary maintenance support ecosystem adapted to real operational constraints.
 
-Project — AeroIntell
+## Project — AeroIntell
 
-AeroIntell is an intelligent aircraft maintenance system designed to support predictive decision-making in aeronautical maintenance operations.
+AeroIntell is a software-oriented intelligent MRO system designed to support maintenance decision-making in aeronautical operations.
 
-The project explores the integration of:
+The project focuses on maintenance intelligence rather than real-time embedded deployment in its current development phase.
 
-- Embedded sensor data acquisition
-- Signal processing and anomaly detection
-- Backend data architecture
-- Predictive maintenance logic
+### Main Objectives
 
-Future development will focus on cyber-physical system integration.
+- Aircraft potential management (flight hours, cycles, calendar limits)
+- Maintenance alert generation
+- Future maintenance schedule projection
+- Spare parts inventory tracking
+- Multi-operator support for civil and military aviation environments
 
-Technical Interests
+The system is built around backend architecture, SQL data integrity and basic predictive maintenance logic.
 
-- Embedded Systems
-- Aircraft Maintenance Intelligence
-- Sensor Data Processing
-- Predictive Analytics
-- System Architecture
+Development is currently in the architectural and database modeling phase.
 
-Academic Orientation
+## Technical Interests
 
-Interest in advanced studies in intelligent systems, embedded engineering and applied artificial intelligence.
+- Embedded system foundations  
+- Aircraft maintenance intelligence  
+- Sensor data processing concepts  
+- Predictive analytics logic  
+- Backend system architecture  
 
-Potential academic direction includes programs in engineering schools such as ISAE-SUPAERO.
+## Academic Orientation
 
-Vision
+Interest in advanced engineering studies in intelligent systems, embedded engineering and aerospace technology.
 
-Building intelligent maintenance systems that improve reliability and operational safety in aeronautical environments.
+Potential academic direction includes programs such as ISAE-SUPAERO.
+
+## Vision
+
+Design intelligent maintenance systems that improve reliability, safety and operational efficiency in aeronautical environments.
