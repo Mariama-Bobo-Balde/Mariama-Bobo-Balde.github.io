@@ -1,49 +1,117 @@
-body{
-font-family: Arial, sans-serif;
-background:#f5f7fa;
-margin:0;
-padding:0;
+/* Importation d'une police moderne */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+:root {
+    --primary-color: #1a3a5f; /* Bleu professionnel */
+    --accent-color: #27ae60; /* Vert pour les succès/projets */
+    --text-color: #333;
+    --bg-color: #f4f7f6;
+    --card-bg: #ffffff;
 }
 
-.container{
-max-width:900px;
-margin:auto;
-background:white;
-padding:40px;
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
 }
 
-header{
-text-align:center;
-margin-bottom:40px;
+.recipient {
+    max-width: 900px;
+    margin: 0 auto;
+    background: var(--card-bg);
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
 }
 
-h1{
-color:#2c3e50;
-margin-bottom:5px;
+/* En-tête */
+header {
+    text-align: center;
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 20px;
+    margin-bottom: 30px;
 }
 
-.subtitle{
-color:#7f8c8d;
+h1 {
+    color: var(--primary-color);
+    font-size: 2.5rem;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
-h2{
-color:#34495e;
-border-bottom:2px solid #eee;
-padding-bottom:8px;
-margin-top:40px;
+.sous-titre {
+    color: #666;
+    font-weight: 400;
+    font-size: 1.1rem;
+    margin-top: 10px;
 }
 
-.project-card{
-background:#fafafa;
-padding:25px;
-border-radius:8px;
-border:1px solid #eee;
+/* Sections */
+section {
+    margin-bottom: 40px;
 }
 
-.skills{
-list-style-type:square;
+h2 {
+    color: var(--primary-color);
+    border-left: 5px solid var(--accent-color);
+    padding-left: 15px;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
 }
 
-ul{
-line-height:1.8;
+h3 {
+    color: #444;
+    margin-bottom: 10px;
 }
+
+/* Listes (C'est ici qu'on règle ton problème d'espacement) */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    background: #f9f9f9;
+    margin-bottom: 15px; /* Grand espacement entre les points */
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    transition: transform 0.2s;
+}
+
+li:hover {
+    transform: translateX(5px);
+    border-color: var(--accent-color);
+}
+
+li strong {
+    color: var(--primary-color);
+    display: block; /* Met le titre de la compétence sur sa propre ligne */
+    margin-bottom: 5px;
+}
+
+/* Liens */
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .recipient {
+        padding: 20px;
+    }
+    h1 {
+        font-size: 1.8rem;
+    }
+}
+
