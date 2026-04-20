@@ -1,45 +1,23 @@
-# Portfolio des systèmes embarqués intelligents
+# Portfolio | Mariama Bobo Baldé
+## Data Analyst & Software Engineering
 
-## About Me
+Diplômée d'une **Licence  MIAGE** (Méthodes Informatiques Appliquées à la Gestion des Entreprises) et forte de mon expérience en Maintenance des Systèmes Critiques et Embarqués, je fais pivoter mon expertise technique vers l'ingénierie des données et la Business Intelligence. Mon parcours m'a dotée d'une rigueur opérationnelle que j'applique désormais à la création de solutions informatiques d'aide à la décision.
 
-Avionics technician transitioning toward intelligent maintenance engineering for aeronautical systems.
+### 🎯 Objectif Académique & Professionnel
+Je prépare actuellement mon admission en **Master MIAGE** (Méthodes Informatiques Appliquées à la Gestion des Entreprises) pour la rentrée 2027. Mes universités cibles sont **Lille** et **Rennes**, afin de me spécialiser dans la gestion des systèmes d'information et l'analyse de données complexes.
 
-My interest lies in structured system design combining operational data acquisition, backend architecture and maintenance intelligence.
+### 🛠️ Projets Data & Business Intelligence
+Dans le cadre de ma montée en compétences, j'ai développé une suite de scripts d'analyse automatisés :
+- **Analyse de Saisonnalité :** Identification des pics de vente via des séries temporelles Python.
+- **Segmentation Client :** Analyse du Top 5 des contributeurs au chiffre d'affaires.
+- **Rentabilité :** Calcul et visualisation du panier moyen par client.
+- **Performance Catalogue :** Analyse Top/Bottom des produits pour l'optimisation des stocks.
 
-Through the AeroIntell project, I aim to develop an evolutionary maintenance support ecosystem adapted to real operational constraints.
+### 💻 Stack Technique
+- **Langages :** Python (Pandas, Matplotlib, Seaborn), SQL(Modélisation Rélationnelle).
+- **Outils :** Git, VS Code, Suite Office.
+- **Domaines :** Analyse de données, Business Intelligence, Maintenance prédictive (MRO).
 
-## Project — AeroIntell
+### ✈️ Projet AeroIntell
+AeroIntell évolue pour devenir un système intelligent de support à la décision MRO, basé sur l'analyse de données et l'intégrité SQL, pour améliorer la fiabilité et l'efficacité opérationnelle.
 
-AeroIntell is a software-oriented intelligent MRO system designed to support maintenance decision-making in aeronautical operations.
-
-The project focuses on maintenance intelligence rather than real-time embedded deployment in its current development phase.
-
-### Main Objectives
-
-- Aircraft potential management (flight hours, cycles, calendar limits)
-- Maintenance alert generation
-- Future maintenance schedule projection
-- Spare parts inventory tracking
-- Multi-operator support for civil and military aviation environments
-
-The system is built around backend architecture, SQL data integrity and basic predictive maintenance logic.
-
-Development is currently in the architectural and database modeling phase.
-
-## Technical Interests
-
-- Embedded system foundations  
-- Aircraft maintenance intelligence  
-- Sensor data processing concepts  
-- Predictive analytics logic  
-- Backend system architecture  
-
-## Academic Orientation
-
-Interest in advanced engineering studies in intelligent systems, embedded engineering and aerospace technology.
-
-Potential academic direction includes programs such as ISAE-SUPAERO.
-
-## Vision
-
-Design intelligent maintenance systems that improve reliability, safety and operational efficiency in aeronautical environments.
