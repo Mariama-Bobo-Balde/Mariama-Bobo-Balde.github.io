@@ -33,8 +33,10 @@ Société immobilière · Conakry, Guinée · 2021 — En poste
 
 ### 📂 Projets
 
-- [Analyse Performance Business](https://github.com/Mariama-Bobo-Balde/Analyse-performance-Busness) — Python, Power BI, Pandas
-- [AeroIntell — Analyse décisionnelle SQL](https://github.com/Mariama-Bobo-Balde/Aerolntell) — SQL, PostgreSQL
+- [Analyse Performance Business](https://github.com/Mariama-Bobo-Balde/Analyse-performance-Busness) — Python · Matplotlib · Pandas
+- [Analyse CA Retail](https://github.com/Mariama-Bobo-Balde/Analyse-CA-Retail) — Python · Pandas · Matplotlib
+- [Audit RH — Pointage & Coûts](https://github.com/Mariama-Bobo-Balde/Audit-RH-Pointage) — Python · Pandas · Excel
+- [Audit & Nettoyage de Données](https://github.com/Mariama-Bobo-Balde/Audit-Nettoyage-Donnees) — Python · Pandas · Regex
 
 ---
 
